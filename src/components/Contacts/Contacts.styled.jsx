@@ -19,12 +19,3 @@ export const Item = styled.li`
     margin-left: 10px;
   }
 `;
-
-export const Button = styled.button`
-  margin-left: 20px;
-  text-align: center;
-  padding: 5px;
-  border: none;
-  background-color: transparent;
-  cursor: pointer;
-`;
